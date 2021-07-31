@@ -14,8 +14,8 @@
             </thead>
             <tbody>
                 <tr>
-                    <th scope="row">1</th>
-                    <td>John Doe Dark Master</td>
+                    <th scope="row">1</th>  
+                    <td>Dark Master</td>
                     <td>john@mail.com</td>
                     <td>555 555-55-55</td>
                 </tr>
